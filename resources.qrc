@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/palettes">
+        <file>default.palette</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>edit.png</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>zoomout.png</file>
+        <file>reset.png</file>
+        <file>help.png</file>
+        <file>back.png</file>
+    </qresource>
+</RCC>
